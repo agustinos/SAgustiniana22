@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+@font-face{
+    font-family: "2";
+    src:    url('font/BenchNine-Light.otf') format('opentype');
+}
+.cabecera{
+    background-color: black;
+    padding: 25px 10px 25px 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-family: '2';
+}
+.cabe{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.head{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.fondo{
+    background-image: url(img/fondo.png);
+    background-size: 100%;
+    background-position-x: 43%;
+    background-position-y: -60%;
+}
+.h1{
+    text-align: center;
+    font-family: '2';
+    color: white;
+    text-shadow: 3px 2px black;
+    font-size: 25px;
+    opacity: 0.8;
+    background: black;
+    border: 2px solid white;
+    margin-top: 90px;
+    margin-left: 570px;
+    margin-right: 570px;
+}
+.di{
+    background-color: black;
+    opacity: 0.8;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.h2{
+    text-align: justify;
+    font-family: '2';
+    color: white;
+    font-size: 21px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.next{
+    text-align: center;
+    font-family: '2';
+    font-size: 27px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.video{
+    text-align: center;
+    font-family: '2';
+    font-size: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.forms{
+    text-align: center;
+}
+.h4{
+    text-align: center;
+    font-family: '2';
+    color: white;
+    text-shadow: 3px 2px black;
+    font-size: 35px;
+    opacity: 0.8;
+    background: black;
+    border: 2px solid white;
+    margin-top: 90px;
+    margin-left: 470px;
+    margin-right: 470px;
+}
+.sombra{
+    text-shadow: 3px 2px black;
+}
